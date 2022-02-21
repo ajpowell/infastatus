@@ -56,7 +56,7 @@ def displayStatus(displayname, name, user, position):
     for n in range(spaces):
         buffer = buffer + ' '
 
-    return displayname+ buffer + status_message
+    return displayname + buffer + status_message
 
 
 
